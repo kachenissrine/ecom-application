@@ -11,6 +11,7 @@
 4-Configuration statique du système de routage
 
 5-Créer l&#39;annuaire Eureka Discovery Service
+![image](https://user-images.githubusercontent.com/80751443/208182724-f163bd49-252a-4bed-97c7-12679e5f5530.png)
 
 6. Faire une configuration dynamique des routes de la gateway
 
