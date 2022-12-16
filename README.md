@@ -14,6 +14,12 @@
 ![image](https://user-images.githubusercontent.com/80751443/208182724-f163bd49-252a-4bed-97c7-12679e5f5530.png)
 
 6. Faire une configuration dynamique des routes de la gateway
+![image](https://user-images.githubusercontent.com/80751443/208182837-79ca99f2-d473-4631-91b9-d60b6d6c9c0b.png)
+
+![image](https://user-images.githubusercontent.com/80751443/208182902-6547379f-d449-4643-acc9-7c82363f10f2.png)
+
+![image](https://user-images.githubusercontent.com/80751443/208183135-3612ab05-4734-4804-93ca-49a9ac83cbe9.png)
+
 
 7. Créer le service de facturation Billing-Service en utilisant Open Feign
 
