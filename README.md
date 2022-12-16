@@ -9,6 +9,7 @@
 ![image](https://user-images.githubusercontent.com/80751443/208182221-a951e9dd-560d-4968-820d-eb756e77665d.png)
 
 4-Configuration statique du système de routage
+Création de la gateway en spécifiant le numéro de ports des services
 
 5-Créer l&#39;annuaire Eureka Discovery Service
 ![image](https://user-images.githubusercontent.com/80751443/208182724-f163bd49-252a-4bed-97c7-12679e5f5530.png)
