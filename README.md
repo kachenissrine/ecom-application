@@ -25,4 +25,13 @@
 ![image](https://user-images.githubusercontent.com/80751443/208186536-e8758fc2-0e63-4964-b894-a3d06348b4d5.png)
 
 8. Créer un client Web Angular (Clients, Produits, Factures )
+**PRODUITS**
+![image](https://user-images.githubusercontent.com/80751443/208187676-693b9bed-5a86-4b43-b1cb-ee3b3bd7bdf0.png)
+**CLIENTS**
+![image](https://user-images.githubusercontent.com/80751443/208187822-7e7f816c-d70d-4a5e-b9d2-3b9d6c980d64.png)
+
+![image](https://user-images.githubusercontent.com/80751443/208187907-f3ef3ae2-1765-45dc-9e60-a5826d512df3.png)
+**BILLS**
+![image](https://user-images.githubusercontent.com/80751443/208187971-dd5a77e3-abca-42a2-8bdf-8a6a27a7173e.png)
+
 
