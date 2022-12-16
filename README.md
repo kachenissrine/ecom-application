@@ -22,5 +22,7 @@
 
 
 7. Créer le service de facturation Billing-Service en utilisant Open Feign
+![image](https://user-images.githubusercontent.com/80751443/208186536-e8758fc2-0e63-4964-b894-a3d06348b4d5.png)
 
 8. Créer un client Web Angular (Clients, Produits, Factures )
+
